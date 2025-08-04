@@ -1,2 +1,2 @@
 # Induction-Programme
-# Inderjeet Singh 
+# Day-1
